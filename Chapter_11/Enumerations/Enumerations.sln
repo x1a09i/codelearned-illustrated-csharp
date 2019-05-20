@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerations", "Enumerations\Enumerations.csproj", "{0DD828CE-7D25-4D18-9F3B-7C63D50BBBDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitFlags", "BitFlags\BitFlags.csproj", "{FF6A6D45-AA17-4DAC-9546-0C90C06C0138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetNameFromEnum", "GetNameFromEnum\GetNameFromEnum.csproj", "{67C53C21-6FB5-45ED-9A4F-F346B1A0BFA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD828CE-7D25-4D18-9F3B-7C63D50BBBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD828CE-7D25-4D18-9F3B-7C63D50BBBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD828CE-7D25-4D18-9F3B-7C63D50BBBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD828CE-7D25-4D18-9F3B-7C63D50BBBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6A6D45-AA17-4DAC-9546-0C90C06C0138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6A6D45-AA17-4DAC-9546-0C90C06C0138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6A6D45-AA17-4DAC-9546-0C90C06C0138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6A6D45-AA17-4DAC-9546-0C90C06C0138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C53C21-6FB5-45ED-9A4F-F346B1A0BFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C53C21-6FB5-45ED-9A4F-F346B1A0BFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C53C21-6FB5-45ED-9A4F-F346B1A0BFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C53C21-6FB5-45ED-9A4F-F346B1A0BFA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
